@@ -16,7 +16,7 @@ Também será necessário instalar as dependências do projeto executando:
 npm install
 ```
 
-Finalmente podemos rodar o projeto e a API utilizando apenas um comando:
+Finalmente podemos rodar o projeto utilizando apenas um comando:
 
 ```
 node ./main.js
